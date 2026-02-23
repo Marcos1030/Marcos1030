@@ -1,5 +1,5 @@
 # Olá, eu sou o Marcos Lima! 👋
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoslimaoliveira)
 ### Engenheiro de Software em Formação 🚀
 
 Estou trilhando meu caminho no mundo do desenvolvimento, focado em dominar as melhores ferramentas do mercado. Atualmente, estou aprofundando meus conhecimentos em versionamento de código e colaboração profissional.
