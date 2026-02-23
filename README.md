@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Marcos Lima! 👋
 
-<!--
-**Marcos1030/Marcos1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenheiro de Software em Formação 🚀
 
-Here are some ideas to get you started:
+Estou trilhando meu caminho no mundo do desenvolvimento, focado em dominar as melhores ferramentas do mercado. Atualmente, estou aprofundando meus conhecimentos em versionamento de código e colaboração profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ **Ferramentas:** Git, GitHub, VS Code.
+- 📚 **Estudando no momento:** Fluxos de trabalho profissionais (Git Flow) e Conventional Commits.
+- 🎯 **Objetivo:** Criar códigos limpos, organizados e eficientes.
+
+---
+
+### 📊 Meu Progresso no GitHub
+![Meus Status do GitHub](https://github-readme-stats.vercel.app/api?username=Marcos1030&show_icons=true&theme=radical)
+
+---
+> "O sucesso é o somatório de pequenos esforços repetidos dia após dia."
